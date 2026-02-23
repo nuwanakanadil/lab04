@@ -1,0 +1,1 @@
+console.log("Welcome to SE3040 Lab 04!");
