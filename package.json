@@ -1,0 +1,19 @@
+{
+  "name": "lab04",
+  "version": "1.0.0",
+  "description": "Lab 04",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuwanakanadil/lab04.git"
+  },
+  "author": "nuwanaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuwanakanadil/lab04/issues"
+  },
+  "homepage": "https://github.com/nuwanakanadil/lab04#readme"
+}
